@@ -1,0 +1,6 @@
+{
+  "name": "Name Radar - Equity Skew vs Price Positioning",
+  "description": "Institutional options skew and stock price positioning dashboard mapping market sentiment across four quadrants (Fear, Hedged Rally, Contrarian Bid, Chase).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

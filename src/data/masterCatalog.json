@@ -1,0 +1,7555 @@
+[
+  {
+    "ticker": "MMM",
+    "name": "3M",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "AOS",
+    "name": "A. O. Smith",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ABT",
+    "name": "Abbott Laboratories",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ABBV",
+    "name": "AbbVie",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ACN",
+    "name": "Accenture",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ADBE",
+    "name": "Adobe Inc.",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "AES",
+    "name": "AES Corporation",
+    "sector": "Utilities",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "AFL",
+    "name": "Aflac",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "A",
+    "name": "Agilent Technologies",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "APD",
+    "name": "Air Products",
+    "sector": "Materials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ABNB",
+    "name": "Airbnb",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "AKAM",
+    "name": "Akamai Technologies",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ALB",
+    "name": "Albemarle Corporation",
+    "sector": "Materials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ARE",
+    "name": "Alexandria Real Estate Equities",
+    "sector": "Real Estate",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ALGN",
+    "name": "Align Technology",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ALLE",
+    "name": "Allegion",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "LNT",
+    "name": "Alliant Energy",
+    "sector": "Utilities",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ALL",
+    "name": "Allstate",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "GOOGL",
+    "name": "Alphabet Inc. (Class A)",
+    "sector": "Communication Services",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "GOOG",
+    "name": "Alphabet Inc. (Class C)",
+    "sector": "Communication Services",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "MO",
+    "name": "Altria",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "AMZN",
+    "name": "Amazon",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "AMCR",
+    "name": "Amcor",
+    "sector": "Materials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "AEE",
+    "name": "Ameren",
+    "sector": "Utilities",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "AEP",
+    "name": "American Electric Power",
+    "sector": "Utilities",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "AXP",
+    "name": "American Express",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "AIG",
+    "name": "American International Group",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "AMT",
+    "name": "American Tower",
+    "sector": "Real Estate",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "AWK",
+    "name": "American Water Works",
+    "sector": "Utilities",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "AMP",
+    "name": "Ameriprise Financial",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "AME",
+    "name": "Ametek",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "AMGN",
+    "name": "Amgen",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "APH",
+    "name": "Amphenol",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ADI",
+    "name": "Analog Devices",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "AON",
+    "name": "Aon plc",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "APA",
+    "name": "APA Corporation",
+    "sector": "Energy",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "APO",
+    "name": "Apollo Global Management",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "AAPL",
+    "name": "Apple Inc.",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "AMAT",
+    "name": "Applied Materials",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "APP",
+    "name": "AppLovin",
+    "sector": "Communication Services",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "APTV",
+    "name": "Aptiv",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ACGL",
+    "name": "Arch Capital Group",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ADM",
+    "name": "Archer Daniels Midland",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ARES",
+    "name": "Ares Management",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ANET",
+    "name": "Arista Networks",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "AIZ",
+    "name": "Assurant",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "T",
+    "name": "AT&T",
+    "sector": "Communication Services",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ATO",
+    "name": "Atmos Energy",
+    "sector": "Utilities",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ADSK",
+    "name": "Autodesk",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ADP",
+    "name": "Automatic Data Processing",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "AZO",
+    "name": "AutoZone",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "AVY",
+    "name": "Avery Dennison",
+    "sector": "Materials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "AXON",
+    "name": "Axon Enterprise",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "BKR",
+    "name": "Baker Hughes",
+    "sector": "Energy",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "BALL",
+    "name": "Ball Corporation",
+    "sector": "Materials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "BAC",
+    "name": "Bank of America",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "BAX",
+    "name": "Baxter International",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "BDX",
+    "name": "Becton Dickinson",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "BRK-B",
+    "name": "Berkshire Hathaway",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "BBY",
+    "name": "Best Buy",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "TECH",
+    "name": "Bio-Techne",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "BIIB",
+    "name": "Biogen",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "BLK",
+    "name": "BlackRock",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "BX",
+    "name": "Blackstone Inc.",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "XYZ",
+    "name": "Block",
+    "sector": "Inc.",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "BE",
+    "name": "Bloom Energy",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "BNY",
+    "name": "BNY Mellon",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "BA",
+    "name": "Boeing",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "BKNG",
+    "name": "Booking Holdings",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "BSX",
+    "name": "Boston Scientific",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "BMY",
+    "name": "Bristol Myers Squibb",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "AVGO",
+    "name": "Broadcom",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "BR",
+    "name": "Broadridge Financial Solutions",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "BRO",
+    "name": "Brown & Brown",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "BF-B",
+    "name": "Brown–Forman",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "BG",
+    "name": "Bunge Global",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "BXP",
+    "name": "BXP",
+    "sector": "Inc.",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CHRW",
+    "name": "C.H. Robinson",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CDNS",
+    "name": "Cadence Design Systems",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CPT",
+    "name": "Camden Property Trust",
+    "sector": "Real Estate",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "COF",
+    "name": "Capital One",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CAH",
+    "name": "Cardinal Health",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CCL",
+    "name": "Carnival Corporation",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CARR",
+    "name": "Carrier Global",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CVNA",
+    "name": "Carvana",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CASY",
+    "name": "Casey's",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CAT",
+    "name": "Caterpillar Inc.",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CBOE",
+    "name": "Cboe Global Markets",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CBRE",
+    "name": "CBRE Group",
+    "sector": "Real Estate",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CDW",
+    "name": "CDW Corporation",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "COR",
+    "name": "Cencora",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CNC",
+    "name": "Centene Corporation",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CNP",
+    "name": "CenterPoint Energy",
+    "sector": "Utilities",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CF",
+    "name": "CF Industries",
+    "sector": "Materials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CRL",
+    "name": "Charles River Laboratories",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "SCHW",
+    "name": "Charles Schwab Corporation",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CHTR",
+    "name": "Charter Communications",
+    "sector": "Communication Services",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CVX",
+    "name": "Chevron Corporation",
+    "sector": "Energy",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CMG",
+    "name": "Chipotle Mexican Grill",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CB",
+    "name": "Chubb Limited",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CHD",
+    "name": "Church & Dwight",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CIEN",
+    "name": "Ciena",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CI",
+    "name": "Cigna",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CINF",
+    "name": "Cincinnati Financial",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CTAS",
+    "name": "Cintas",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CSCO",
+    "name": "Cisco",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "C",
+    "name": "Citigroup",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CFG",
+    "name": "Citizens Financial Group",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CLX",
+    "name": "Clorox",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CME",
+    "name": "CME Group",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CMS",
+    "name": "CMS Energy",
+    "sector": "Utilities",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "KO",
+    "name": "Coca-Cola Company (The)",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CTSH",
+    "name": "Cognizant",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "COHR",
+    "name": "Coherent Corp.",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "COIN",
+    "name": "Coinbase",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CL",
+    "name": "Colgate-Palmolive",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CMCSA",
+    "name": "Comcast",
+    "sector": "Communication Services",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "FIX",
+    "name": "Comfort Systems USA",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "COP",
+    "name": "ConocoPhillips",
+    "sector": "Energy",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ED",
+    "name": "Consolidated Edison",
+    "sector": "Utilities",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "STZ",
+    "name": "Constellation Brands",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CEG",
+    "name": "Constellation Energy",
+    "sector": "Utilities",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "COO",
+    "name": "Cooper Companies (The)",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CPRT",
+    "name": "Copart",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "GLW",
+    "name": "Corning Inc.",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CPAY",
+    "name": "Corpay",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CTVA",
+    "name": "Corteva",
+    "sector": "Materials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CSGP",
+    "name": "CoStar Group",
+    "sector": "Real Estate",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "COST",
+    "name": "Costco",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CRH",
+    "name": "CRH plc",
+    "sector": "Materials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CRWD",
+    "name": "CrowdStrike",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CCI",
+    "name": "Crown Castle",
+    "sector": "Real Estate",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CSX",
+    "name": "CSX Corporation",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CMI",
+    "name": "Cummins",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CVS",
+    "name": "CVS Health",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "DHR",
+    "name": "Danaher Corporation",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "DRI",
+    "name": "Darden Restaurants",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "DDOG",
+    "name": "Datadog",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "DVA",
+    "name": "DaVita",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "DECK",
+    "name": "Deckers Brands",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "DE",
+    "name": "Deere & Company",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "DELL",
+    "name": "Dell Technologies",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "DAL",
+    "name": "Delta Air Lines",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "DVN",
+    "name": "Devon Energy",
+    "sector": "Energy",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "DXCM",
+    "name": "Dexcom",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "FANG",
+    "name": "Diamondback Energy",
+    "sector": "Energy",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "DLR",
+    "name": "Digital Realty",
+    "sector": "Real Estate",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "DG",
+    "name": "Dollar General",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "DLTR",
+    "name": "Dollar Tree",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "D",
+    "name": "Dominion Energy",
+    "sector": "Utilities",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "DPZ",
+    "name": "Domino's",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "DASH",
+    "name": "DoorDash",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "DOV",
+    "name": "Dover Corporation",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "DOW",
+    "name": "Dow Inc.",
+    "sector": "Materials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "DHI",
+    "name": "D. R. Horton",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "DTE",
+    "name": "DTE Energy",
+    "sector": "Utilities",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "DUK",
+    "name": "Duke Energy",
+    "sector": "Utilities",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "DD",
+    "name": "DuPont",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ETN",
+    "name": "Eaton Corporation",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "EBAY",
+    "name": "eBay Inc.",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ECHO",
+    "name": "EchoStar",
+    "sector": "Communication Services",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ECL",
+    "name": "Ecolab",
+    "sector": "Materials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "EIX",
+    "name": "Edison International",
+    "sector": "Utilities",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "EW",
+    "name": "Edwards Lifesciences",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ELV",
+    "name": "Elevance Health",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "EME",
+    "name": "Emcor",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "EMR",
+    "name": "Emerson Electric",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ETR",
+    "name": "Entergy",
+    "sector": "Utilities",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "EOG",
+    "name": "EOG Resources",
+    "sector": "Energy",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "EQT",
+    "name": "EQT Corporation",
+    "sector": "Energy",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "EFX",
+    "name": "Equifax",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "EQIX",
+    "name": "Equinix",
+    "sector": "Real Estate",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ERIE",
+    "name": "Erie Indemnity",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ESS",
+    "name": "Essex Property Trust",
+    "sector": "Real Estate",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "EL",
+    "name": "Estée Lauder Companies (The)",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "EG",
+    "name": "Everest Group",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "EVRG",
+    "name": "Evergy",
+    "sector": "Utilities",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "P",
+    "name": "Everpure",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ES",
+    "name": "Eversource Energy",
+    "sector": "Utilities",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "EXC",
+    "name": "Exelon",
+    "sector": "Utilities",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "EXE",
+    "name": "Expand Energy",
+    "sector": "Energy",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "EXPE",
+    "name": "Expedia Group",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "EXPD",
+    "name": "Expeditors International",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "EXR",
+    "name": "Extra Space Storage",
+    "sector": "Real Estate",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "XOM",
+    "name": "ExxonMobil",
+    "sector": "Energy",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "FFIV",
+    "name": "F5",
+    "sector": "Inc.",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "FDS",
+    "name": "FactSet",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "FICO",
+    "name": "Fair Isaac",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "FAST",
+    "name": "Fastenal",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "FRT",
+    "name": "Federal Realty Investment Trust",
+    "sector": "Real Estate",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "FDX",
+    "name": "FedEx",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "FDXF",
+    "name": "FedEx Freight",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "FERG",
+    "name": "Ferguson Enterprises",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "FIS",
+    "name": "Fidelity National Information Services",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "FITB",
+    "name": "Fifth Third Bancorp",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "FSLR",
+    "name": "First Solar",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "FE",
+    "name": "FirstEnergy",
+    "sector": "Utilities",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "FISV",
+    "name": "Fiserv",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "FLEX",
+    "name": "Flex Ltd.",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "F",
+    "name": "Ford Motor Company",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "FTNT",
+    "name": "Fortinet",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "FTV",
+    "name": "Fortive",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "FOXA",
+    "name": "Fox Corporation (Class A)",
+    "sector": "Communication Services",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "FOX",
+    "name": "Fox Corporation (Class B)",
+    "sector": "Communication Services",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "BEN",
+    "name": "Franklin Resources",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "FCX",
+    "name": "Freeport-McMoRan",
+    "sector": "Materials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "GRMN",
+    "name": "Garmin",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "IT",
+    "name": "Gartner",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "GE",
+    "name": "GE Aerospace",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "GEHC",
+    "name": "GE HealthCare",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "GEV",
+    "name": "GE Vernova",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "GEN",
+    "name": "Gen Digital",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "GNRC",
+    "name": "Generac",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "GD",
+    "name": "General Dynamics",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "GIS",
+    "name": "General Mills",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "GM",
+    "name": "General Motors",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "GPC",
+    "name": "Genuine Parts Company",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "GILD",
+    "name": "Gilead Sciences",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "GPN",
+    "name": "Global Payments",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "GL",
+    "name": "Globe Life",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "GDDY",
+    "name": "GoDaddy",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "GS",
+    "name": "Goldman Sachs",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "HAL",
+    "name": "Halliburton",
+    "sector": "Energy",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "HIG",
+    "name": "Hartford (The)",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "HAS",
+    "name": "Hasbro",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "HCA",
+    "name": "HCA Healthcare",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "DOC",
+    "name": "Healthpeak Properties",
+    "sector": "Real Estate",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "HSIC",
+    "name": "Henry Schein",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "HSY",
+    "name": "Hershey Company (The)",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "HLT",
+    "name": "Hilton Worldwide",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "HD",
+    "name": "Home Depot (The)",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "HONA",
+    "name": "Honeywell Aerospace",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "HON",
+    "name": "Honeywell Technologies",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "HRL",
+    "name": "Hormel Foods",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "HST",
+    "name": "Host Hotels & Resorts",
+    "sector": "Real Estate",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "HWM",
+    "name": "Howmet Aerospace",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "HUBB",
+    "name": "Hubbell Incorporated",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "HUM",
+    "name": "Humana",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "HBAN",
+    "name": "Huntington Bancshares",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "HII",
+    "name": "Huntington Ingalls Industries",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "IBM",
+    "name": "IBM",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "IEX",
+    "name": "IDEX Corporation",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "IDXX",
+    "name": "Idexx Laboratories",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ITW",
+    "name": "Illinois Tool Works",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ILMN",
+    "name": "Illumina",
+    "sector": "Inc.",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "INCY",
+    "name": "Incyte",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "IR",
+    "name": "Ingersoll Rand",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "PODD",
+    "name": "Insulet Corporation",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "INTC",
+    "name": "Intel",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "IBKR",
+    "name": "Interactive Brokers",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ICE",
+    "name": "Intercontinental Exchange",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "IFF",
+    "name": "International Flavors & Fragrances",
+    "sector": "Materials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "IP",
+    "name": "International Paper",
+    "sector": "Materials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "INTU",
+    "name": "Intuit",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ISRG",
+    "name": "Intuitive Surgical",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "IVZ",
+    "name": "Invesco",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "INVH",
+    "name": "Invitation Homes",
+    "sector": "Real Estate",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "IQV",
+    "name": "IQVIA",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "IRM",
+    "name": "Iron Mountain",
+    "sector": "Real Estate",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "JBHT",
+    "name": "J.B. Hunt",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "JBL",
+    "name": "Jabil",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "JKHY",
+    "name": "Jack Henry & Associates",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "J",
+    "name": "Jacobs Solutions",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "JNJ",
+    "name": "Johnson & Johnson",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "JCI",
+    "name": "Johnson Controls",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "JPM",
+    "name": "JPMorgan Chase",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "KVUE",
+    "name": "Kenvue",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "KDP",
+    "name": "Keurig Dr Pepper",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "KEY",
+    "name": "KeyCorp",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "KEYS",
+    "name": "Keysight Technologies",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "KMB",
+    "name": "Kimberly-Clark",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "KIM",
+    "name": "Kimco Realty",
+    "sector": "Real Estate",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "KMI",
+    "name": "Kinder Morgan",
+    "sector": "Energy",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "KKR",
+    "name": "KKR & Co.",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "KLAC",
+    "name": "KLA Corporation",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "KHC",
+    "name": "Kraft Heinz",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "KR",
+    "name": "Kroger",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "LHX",
+    "name": "L3Harris",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "LH",
+    "name": "Labcorp",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "LRCX",
+    "name": "Lam Research",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "LVS",
+    "name": "Las Vegas Sands",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "LDOS",
+    "name": "Leidos",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "LEN",
+    "name": "Lennar",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "LII",
+    "name": "Lennox International",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "LLY",
+    "name": "Lilly (Eli)",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "LIN",
+    "name": "Linde plc",
+    "sector": "Materials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "LYV",
+    "name": "Live Nation Entertainment",
+    "sector": "Communication Services",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "LMT",
+    "name": "Lockheed Martin",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "L",
+    "name": "Loews Corporation",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "LOW",
+    "name": "Lowe's",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "LULU",
+    "name": "Lululemon Athletica",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "LITE",
+    "name": "Lumentum",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "LYB",
+    "name": "LyondellBasell",
+    "sector": "Materials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "MTB",
+    "name": "M&T Bank",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "MPC",
+    "name": "Marathon Petroleum",
+    "sector": "Energy",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "MAR",
+    "name": "Marriott International",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "MRSH",
+    "name": "Marsh McLennan",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "MLM",
+    "name": "Martin Marietta Materials",
+    "sector": "Materials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "MRVL",
+    "name": "Marvell Technology",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "MAS",
+    "name": "Masco",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "MA",
+    "name": "Mastercard",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "MKC",
+    "name": "McCormick & Company",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "MCD",
+    "name": "McDonald's",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "MCK",
+    "name": "McKesson Corporation",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "MDT",
+    "name": "Medtronic",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "MRK",
+    "name": "Merck & Co.",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "META",
+    "name": "Meta Platforms",
+    "sector": "Communication Services",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "MET",
+    "name": "MetLife",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "MTD",
+    "name": "Mettler Toledo",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "MGM",
+    "name": "MGM Resorts",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "MCHP",
+    "name": "Microchip Technology",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "MU",
+    "name": "Micron Technology",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "MSFT",
+    "name": "Microsoft",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "MAA",
+    "name": "Mid-America Apartment Communities",
+    "sector": "Real Estate",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "MRNA",
+    "name": "Moderna",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "MDLZ",
+    "name": "Mondelez International",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "MPWR",
+    "name": "Monolithic Power Systems",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "MNST",
+    "name": "Monster Beverage",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "MCO",
+    "name": "Moody's Corporation",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "MS",
+    "name": "Morgan Stanley",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "MOS",
+    "name": "Mosaic Company (The)",
+    "sector": "Materials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "MSI",
+    "name": "Motorola Solutions",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "MSCI",
+    "name": "MSCI",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "NDAQ",
+    "name": "Nasdaq",
+    "sector": "Inc.",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "NTAP",
+    "name": "NetApp",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "NFLX",
+    "name": "Netflix",
+    "sector": "Communication Services",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "NEM",
+    "name": "Newmont",
+    "sector": "Materials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "NWSA",
+    "name": "News Corp (Class A)",
+    "sector": "Communication Services",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "NWS",
+    "name": "News Corp (Class B)",
+    "sector": "Communication Services",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "NEE",
+    "name": "NextEra Energy",
+    "sector": "Utilities",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "NKE",
+    "name": "Nike",
+    "sector": "Inc.",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "NI",
+    "name": "NiSource",
+    "sector": "Utilities",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "NDSN",
+    "name": "Nordson Corporation",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "NSC",
+    "name": "Norfolk Southern",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "NTRS",
+    "name": "Northern Trust",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "NOC",
+    "name": "Northrop Grumman",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "NCLH",
+    "name": "Norwegian Cruise Line Holdings",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "NRG",
+    "name": "NRG Energy",
+    "sector": "Utilities",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "NUE",
+    "name": "Nucor",
+    "sector": "Materials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "NVDA",
+    "name": "Nvidia",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "NVR",
+    "name": "NVR",
+    "sector": "Inc.",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "NXPI",
+    "name": "NXP Semiconductors",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ORLY",
+    "name": "O'Reilly Automotive",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "OXY",
+    "name": "Occidental Petroleum",
+    "sector": "Energy",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ODFL",
+    "name": "Old Dominion",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "OMC",
+    "name": "Omnicom Group",
+    "sector": "Communication Services",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ON",
+    "name": "ON Semiconductor",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "OKE",
+    "name": "Oneok",
+    "sector": "Energy",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "OTIS",
+    "name": "Otis Worldwide",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "PCAR",
+    "name": "Paccar",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "PKG",
+    "name": "Packaging Corporation of America",
+    "sector": "Materials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "PLTR",
+    "name": "Palantir Technologies",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "PANW",
+    "name": "Palo Alto Networks",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "PSKY",
+    "name": "Paramount Skydance Corporation",
+    "sector": "Communication Services",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "PH",
+    "name": "Parker Hannifin",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "PAYX",
+    "name": "Paychex",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "PYPL",
+    "name": "PayPal",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "PNR",
+    "name": "Pentair",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "PEP",
+    "name": "PepsiCo",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "PFE",
+    "name": "Pfizer",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "PCG",
+    "name": "PG&E Corporation",
+    "sector": "Utilities",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "PM",
+    "name": "Philip Morris International",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "sector": "Energy",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "PNW",
+    "name": "Pinnacle West Capital",
+    "sector": "Utilities",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "PNC",
+    "name": "PNC Financial Services",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "PPG",
+    "name": "PPG Industries",
+    "sector": "Materials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "PPL",
+    "name": "PPL Corporation",
+    "sector": "Utilities",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "PFG",
+    "name": "Principal Financial Group",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "PG",
+    "name": "Procter & Gamble",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "PGR",
+    "name": "Progressive Corporation",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "PLD",
+    "name": "Prologis",
+    "sector": "Real Estate",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "PRU",
+    "name": "Prudential Financial",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "PEG",
+    "name": "Public Service Enterprise Group",
+    "sector": "Utilities",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "PTC",
+    "name": "PTC Inc.",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "PSA",
+    "name": "Public Storage",
+    "sector": "Real Estate",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "PHM",
+    "name": "PulteGroup",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "PWR",
+    "name": "Quanta Services",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "QCOM",
+    "name": "Qualcomm",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "DGX",
+    "name": "Quest Diagnostics",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "Q",
+    "name": "Qnity Electronics",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "RL",
+    "name": "Ralph Lauren Corporation",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "RJF",
+    "name": "Raymond James Financial",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "RDDT",
+    "name": "Reddit",
+    "sector": "Communication Services",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "RTX",
+    "name": "RTX Corporation",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "O",
+    "name": "Realty Income",
+    "sector": "Real Estate",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "REG",
+    "name": "Regency Centers",
+    "sector": "Real Estate",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "RF",
+    "name": "Regions Financial Corporation",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "RSG",
+    "name": "Republic Services",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "RMD",
+    "name": "ResMed|",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "RVTY",
+    "name": "Revvity",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "HOOD",
+    "name": "Robinhood Markets",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ROK",
+    "name": "Rockwell Automation",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ROL",
+    "name": "Rollins",
+    "sector": "Inc.",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ROP",
+    "name": "Roper Technologies",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ROST",
+    "name": "Ross Stores",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "RCL",
+    "name": "Royal Caribbean Group",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "SPGI",
+    "name": "S&P Global",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "CRM",
+    "name": "Salesforce",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "SNDK",
+    "name": "Sandisk",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "SBAC",
+    "name": "SBA Communications",
+    "sector": "Real Estate",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "SLB",
+    "name": "Schlumberger",
+    "sector": "Energy",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "STX",
+    "name": "Seagate Technology",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "SRE",
+    "name": "Sempra",
+    "sector": "Utilities",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "NOW",
+    "name": "ServiceNow",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "SHW",
+    "name": "Sherwin-Williams",
+    "sector": "Materials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "SPG",
+    "name": "Simon Property Group",
+    "sector": "Real Estate",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "SWKS",
+    "name": "Skyworks Solutions",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "SJM",
+    "name": "J.M. Smucker Company (The)",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "SW",
+    "name": "Smurfit Westrock",
+    "sector": "Materials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "SNA",
+    "name": "Snap-on",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "SOLV",
+    "name": "Solventum",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "SO",
+    "name": "Southern Company",
+    "sector": "Utilities",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "LUV",
+    "name": "Southwest Airlines",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "SWK",
+    "name": "Stanley Black & Decker",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "SBUX",
+    "name": "Starbucks",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "STT",
+    "name": "State Street Corporation",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "STLD",
+    "name": "Steel Dynamics",
+    "sector": "Materials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "STE",
+    "name": "Steris",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "SYK",
+    "name": "Stryker Corporation",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "SMCI",
+    "name": "Supermicro",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "SYF",
+    "name": "Synchrony Financial",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "SNPS",
+    "name": "Synopsys",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "SYY",
+    "name": "Sysco",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "TMUS",
+    "name": "T-Mobile US",
+    "sector": "Communication Services",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "TROW",
+    "name": "T. Rowe Price",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "TTWO",
+    "name": "Take-Two Interactive",
+    "sector": "Communication Services",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "TPR",
+    "name": "Tapestry",
+    "sector": "Inc.",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "TRGP",
+    "name": "Targa Resources",
+    "sector": "Energy",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "TGT",
+    "name": "Target Corporation",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "TEL",
+    "name": "TE Connectivity",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "TDY",
+    "name": "Teledyne Technologies",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "TER",
+    "name": "Teradyne",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "TSLA",
+    "name": "Tesla",
+    "sector": "Inc.",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "TXN",
+    "name": "Texas Instruments",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "TPL",
+    "name": "Texas Pacific Land Corporation",
+    "sector": "Energy",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "TXT",
+    "name": "Textron",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "TMO",
+    "name": "Thermo Fisher Scientific",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "TJX",
+    "name": "TJX Companies",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "TKO",
+    "name": "TKO Group Holdings",
+    "sector": "Communication Services",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "TSCO",
+    "name": "Tractor Supply",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "TT",
+    "name": "Trane Technologies",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "TDG",
+    "name": "TransDigm Group",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "TRV",
+    "name": "Travelers Companies (The)",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "TRMB",
+    "name": "Trimble Inc.",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "TFC",
+    "name": "Truist Financial",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "TYL",
+    "name": "Tyler Technologies",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "TSN",
+    "name": "Tyson Foods",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "USB",
+    "name": "U.S. Bancorp",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "UBER",
+    "name": "Uber",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "UDR",
+    "name": "UDR",
+    "sector": "Inc.",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ULTA",
+    "name": "Ulta Beauty",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "UNP",
+    "name": "Union Pacific Corporation",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "UAL",
+    "name": "United Airlines Holdings",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "UPS",
+    "name": "United Parcel Service",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "URI",
+    "name": "United Rentals",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "UNH",
+    "name": "UnitedHealth Group",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "UHS",
+    "name": "Universal Health Services",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "VLO",
+    "name": "Valero Energy",
+    "sector": "Energy",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "VEEV",
+    "name": "Veeva Systems",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "VTR",
+    "name": "Ventas",
+    "sector": "Real Estate",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "VLTO",
+    "name": "Veralto",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "VRSN",
+    "name": "Verisign",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "VRSK",
+    "name": "Verisk Analytics",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "VZ",
+    "name": "Verizon",
+    "sector": "Communication Services",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "VRTX",
+    "name": "Vertex Pharmaceuticals",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "VRT",
+    "name": "Vertiv",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "VTRS",
+    "name": "Viatris",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "VICI",
+    "name": "Vici Properties",
+    "sector": "Real Estate",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "V",
+    "name": "Visa Inc.",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "VST",
+    "name": "Vistra Corp.",
+    "sector": "Utilities",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "VMRK",
+    "name": "Vivmark Residential",
+    "sector": "Real Estate",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "VMC",
+    "name": "Vulcan Materials Company",
+    "sector": "Materials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "WRB",
+    "name": "W. R. Berkley Corporation",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "GWW",
+    "name": "W. W. Grainger",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "WAB",
+    "name": "Wabtec",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "WMT",
+    "name": "Walmart",
+    "sector": "Consumer Staples",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "DIS",
+    "name": "Walt Disney Company (The)",
+    "sector": "Communication Services",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "WBD",
+    "name": "Warner Bros. Discovery",
+    "sector": "Communication Services",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "WM",
+    "name": "Waste Management",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "WAT",
+    "name": "Waters Corporation",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "WEC",
+    "name": "WEC Energy Group",
+    "sector": "Utilities",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "WFC",
+    "name": "Wells Fargo",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "WELL",
+    "name": "Welltower",
+    "sector": "Real Estate",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "WST",
+    "name": "West Pharmaceutical Services",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "WDC",
+    "name": "Western Digital",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "WY",
+    "name": "Weyerhaeuser",
+    "sector": "Real Estate",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "WSM",
+    "name": "Williams-Sonoma",
+    "sector": "Inc.",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "WMB",
+    "name": "Williams Companies",
+    "sector": "Energy",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "WTW",
+    "name": "Willis Towers Watson",
+    "sector": "Financials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "WDAY",
+    "name": "Workday",
+    "sector": "Inc.",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "WYNN",
+    "name": "Wynn Resorts",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "XEL",
+    "name": "Xcel Energy",
+    "sector": "Utilities",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "XYL",
+    "name": "Xylem Inc.",
+    "sector": "Industrials",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "YUM",
+    "name": "Yum! Brands",
+    "sector": "Consumer Discretionary",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies",
+    "sector": "Information Technology",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ZBH",
+    "name": "Zimmer Biomet",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "ZTS",
+    "name": "Zoetis",
+    "sector": "Health Care",
+    "isSP500": true,
+    "capCategory": "sp500"
+  },
+  {
+    "ticker": "IONQ",
+    "name": "IonQ Inc.",
+    "sector": "Quantum Computing",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "LUNR",
+    "name": "Intuitive Machines",
+    "sector": "Space Systems",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "RDW",
+    "name": "Redwire Space",
+    "sector": "Space Infrastructure",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ACHR",
+    "name": "Archer Aviation",
+    "sector": "eVTOL / Aerospace",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ONDS",
+    "name": "Ondas Holdings",
+    "sector": "Autonomous Drones",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "RGTI",
+    "name": "Rigetti Computing",
+    "sector": "Quantum Computing",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "QUBT",
+    "name": "Quantum Computing Inc.",
+    "sector": "Quantum Computing",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "QBTS",
+    "name": "D-Wave Quantum",
+    "sector": "Quantum Annealing",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ARQQ",
+    "name": "Arqit Quantum",
+    "sector": "Quantum Encryption",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "SOUN",
+    "name": "SoundHound AI",
+    "sector": "Voice AI",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "BBAI",
+    "name": "BigBear.ai",
+    "sector": "Defense AI",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AI",
+    "name": "C3.ai Inc.",
+    "sector": "Enterprise AI",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "SYM",
+    "name": "Symbotic Inc.",
+    "sector": "Warehouse Robotics",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "DUOL",
+    "name": "Duolingo Inc.",
+    "sector": "EdTech AI",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "PATH",
+    "name": "UiPath Inc.",
+    "sector": "Enterprise Automation",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "DOCN",
+    "name": "DigitalOcean",
+    "sector": "Developer Cloud",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "CFLT",
+    "name": "Confluent Inc.",
+    "sector": "Data Streaming",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ESTC",
+    "name": "Elastic N.V.",
+    "sector": "Search AI",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "GTLB",
+    "name": "GitLab Inc.",
+    "sector": "DevSecOps",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "IOT",
+    "name": "Samsara Inc.",
+    "sector": "Connected Operations",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "FSLY",
+    "name": "Fastly Inc.",
+    "sector": "Edge Cloud",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "TEM",
+    "name": "Tempus AI",
+    "sector": "Healthcare AI",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ARM",
+    "name": "Arm Holdings",
+    "sector": "Semiconductor IP",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALAB",
+    "name": "Astera Labs",
+    "sector": "Connectivity Chips",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "CART",
+    "name": "Maplebear (Instacart)",
+    "sector": "Grocery Tech",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "KVYO",
+    "name": "Klaviyo Inc.",
+    "sector": "Marketing Automation",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "MNDY",
+    "name": "Monday.com",
+    "sector": "Work OS",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ASTS",
+    "name": "AST SpaceMobile",
+    "sector": "Satellite Cellular",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "RKLB",
+    "name": "Rocket Lab USA",
+    "sector": "Space Launch & Systems",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "JOBY",
+    "name": "Joby Aviation",
+    "sector": "eVTOL Air Taxi",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "BLDE",
+    "name": "Blade Air Mobility",
+    "sector": "Urban Air Mobility",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "EH",
+    "name": "EHang Holdings",
+    "sector": "Autonomous Aerial Vehicles",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "PL",
+    "name": "Planet Labs",
+    "sector": "Earth Observation",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "BKSY",
+    "name": "BlackSky Technology",
+    "sector": "Real-Time Geospatial",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "SPCE",
+    "name": "Virgin Galactic",
+    "sector": "Aerospace",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "MNTS",
+    "name": "Momentus Inc.",
+    "sector": "Space Transportation",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "LLAP",
+    "name": "Terran Orbital",
+    "sector": "Satellite Manufacturing",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AVAV",
+    "name": "AeroVironment",
+    "sector": "Unmanned Defense Systems",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "KTOS",
+    "name": "Kratos Defense",
+    "sector": "Defense Drones & Combat",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "MSTR",
+    "name": "MicroStrategy",
+    "sector": "Bitcoin Treasury",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "MARA",
+    "name": "MARA Holdings",
+    "sector": "Digital Asset Compute",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "RIOT",
+    "name": "Riot Platforms",
+    "sector": "Bitcoin Mining",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "CLSK",
+    "name": "CleanSpark",
+    "sector": "Bitcoin Mining",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "HUT",
+    "name": "Hut 8 Corp.",
+    "sector": "Energy & Compute",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "BITF",
+    "name": "Bitfarms",
+    "sector": "Bitcoin Mining",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "WULF",
+    "name": "TeraWulf",
+    "sector": "Zero-Carbon Compute",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "CIFR",
+    "name": "Cipher Mining",
+    "sector": "Bitcoin Mining",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "IREN",
+    "name": "Iris Energy",
+    "sector": "Next-Gen Data Centers",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "CORZ",
+    "name": "Core Scientific",
+    "sector": "AI Data Centers",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "SOFI",
+    "name": "SoFi Technologies",
+    "sector": "Fintech",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AFRM",
+    "name": "Affirm Holdings",
+    "sector": "Fintech / BNPL",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "UPST",
+    "name": "Upstart Holdings",
+    "sector": "AI Lending Platform",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "NU",
+    "name": "Nu Holdings (Nubank)",
+    "sector": "Digital Banking",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "LC",
+    "name": "LendingClub",
+    "sector": "Fintech Bank",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "OPEN",
+    "name": "Opendoor Technologies",
+    "sector": "iBuying Real Estate",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "DAVE",
+    "name": "Dave Inc.",
+    "sector": "Personal Finance",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "FLYW",
+    "name": "Flywire Corp.",
+    "sector": "Global Payments",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ENPH",
+    "name": "Enphase Energy",
+    "sector": "Solar Microinverters",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "SEDG",
+    "name": "SolarEdge Technologies",
+    "sector": "Clean Energy",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "RUN",
+    "name": "Sunrun Inc.",
+    "sector": "Residential Solar",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "NOVA",
+    "name": "Sunnova Energy",
+    "sector": "Residential Solar",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "PLUG",
+    "name": "Plug Power",
+    "sector": "Hydrogen Energy",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "STEM",
+    "name": "Stem Inc.",
+    "sector": "AI Storage Software",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ENVX",
+    "name": "Enovix Corp.",
+    "sector": "Silicon Battery Tech",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "FREY",
+    "name": "FREYR Battery",
+    "sector": "Clean Battery Tech",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "WOLF",
+    "name": "Wolfspeed Inc.",
+    "sector": "Silicon Carbide",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AEHR",
+    "name": "Aehr Test Systems",
+    "sector": "Semiconductor Test",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "CHPT",
+    "name": "ChargePoint Holdings",
+    "sector": "EV Charging",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "EVGO",
+    "name": "EVgo Inc.",
+    "sector": "Fast EV Charging",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "BLNK",
+    "name": "Blink Charging",
+    "sector": "EV Infrastructure",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMPS",
+    "name": "Altus Power",
+    "sector": "Commercial Solar",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "HASI",
+    "name": "HA Sustainable Infra",
+    "sector": "Climate Solutions",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ARRY",
+    "name": "Array Technologies",
+    "sector": "Solar Trackers",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "SHLS",
+    "name": "Shoals Technologies",
+    "sector": "Solar EBOS",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "FLNC",
+    "name": "Fluence Energy",
+    "sector": "Grid Energy Storage",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "RIVN",
+    "name": "Rivian Automotive",
+    "sector": "Electric Vehicles",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "LCID",
+    "name": "Lucid Group",
+    "sector": "Electric Vehicles",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "QS",
+    "name": "QuantumScape",
+    "sector": "Solid-State Batteries",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "CAR",
+    "name": "Avis Budget Group",
+    "sector": "Mobility & Car Rental",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "XPEV",
+    "name": "XPeng Inc.",
+    "sector": "Electric Vehicles",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "NIO",
+    "name": "NIO Inc.",
+    "sector": "Smart EVs",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "LI",
+    "name": "Li Auto",
+    "sector": "Electric Vehicles",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "VFS",
+    "name": "VinFast Auto",
+    "sector": "Electric Vehicles",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "LAZR",
+    "name": "Luminar Technologies",
+    "sector": "Automotive LiDAR",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "OUST",
+    "name": "Ouster Inc.",
+    "sector": "Digital Flash LiDAR",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "INVZ",
+    "name": "Innoviz Technologies",
+    "sector": "LiDAR Sensors",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "HIMS",
+    "name": "Hims & Hers Health",
+    "sector": "Digital Health",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "RXRX",
+    "name": "Recursion Pharmaceuticals",
+    "sector": "AI Drug Discovery",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "CRSP",
+    "name": "CRISPR Therapeutics",
+    "sector": "Gene Editing",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "BEAM",
+    "name": "Beam Therapeutics",
+    "sector": "Base Editing",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "NTLA",
+    "name": "Intellia Therapeutics",
+    "sector": "In Vivo Gene Editing",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "EDIT",
+    "name": "Editas Medicine",
+    "sector": "Genome Editing",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "DNA",
+    "name": "Ginkgo Bioworks",
+    "sector": "Synthetic Biology",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "PACB",
+    "name": "Pacific Biosciences",
+    "sector": "Genomic Sequencing",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "TWST",
+    "name": "Twist Bioscience",
+    "sector": "Synthetic DNA",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "VKTX",
+    "name": "Viking Therapeutics",
+    "sector": "Metabolic & Obesity",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALT",
+    "name": "Altimmune",
+    "sector": "GLP-1 Therapeutics",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ARVN",
+    "name": "Arvinas",
+    "sector": "PROTAC Protein Degradation",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "KYMR",
+    "name": "Kymera Therapeutics",
+    "sector": "Targeted Protein Degraders",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "TNDM",
+    "name": "Tandem Diabetes",
+    "sector": "Insulin Delivery Tech",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "EXAS",
+    "name": "Exact Sciences",
+    "sector": "Cancer Diagnostics",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "GH",
+    "name": "Guardant Health",
+    "sector": "Liquid Biopsy",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "KRTX",
+    "name": "Karuna Therapeutics",
+    "sector": "Neuroscience",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "BMRN",
+    "name": "BioMarin Pharmaceutical",
+    "sector": "Rare Genetic Disease",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALNY",
+    "name": "Alnylam Pharmaceuticals",
+    "sector": "RNAi Therapeutics",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "SRPT",
+    "name": "Sarepta Therapeutics",
+    "sector": "Gene Therapy",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AXSM",
+    "name": "Axsome Therapeutics",
+    "sector": "CNS Disorders",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "CYTK",
+    "name": "Cytokinetics",
+    "sector": "Cardiovascular Therapeutics",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "MDGL",
+    "name": "Madrigal Pharmaceuticals",
+    "sector": "MASH Therapeutics",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "INSM",
+    "name": "Insmed Inc.",
+    "sector": "Pulmonary Diseases",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "APLS",
+    "name": "Apellis Pharmaceuticals",
+    "sector": "Complement System",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "RARE",
+    "name": "Ultragenyx Pharmaceutical",
+    "sector": "Rare Metabolic",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "CELH",
+    "name": "Celsius Holdings",
+    "sector": "Consumer Beverages",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "DKNG",
+    "name": "DraftKings Inc.",
+    "sector": "Online Gaming / Sportsbook",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "PENN",
+    "name": "PENN Entertainment",
+    "sector": "Gaming & ESPN BET",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "RBLX",
+    "name": "Roblox Corp.",
+    "sector": "Gaming Platform",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "U",
+    "name": "Unity Software",
+    "sector": "Real-Time 3D Engine",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ETSY",
+    "name": "Etsy Inc.",
+    "sector": "E-Commerce Marketplace",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "W",
+    "name": "Wayfair Inc.",
+    "sector": "Home Goods E-Commerce",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "CHWY",
+    "name": "Chewy Inc.",
+    "sector": "Pet E-Commerce",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "TOST",
+    "name": "Toast Inc.",
+    "sector": "Restaurant Technology",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "CAVA",
+    "name": "CAVA Group",
+    "sector": "Fast Casual Mediterranean",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "WING",
+    "name": "Wingstop Inc.",
+    "sector": "Fast Casual Dining",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "SHAK",
+    "name": "Shake Shack",
+    "sector": "Fast Casual Burgers",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "BROS",
+    "name": "Dutch Bros",
+    "sector": "Drive-Thru Beverages",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "SG",
+    "name": "Sweetgreen",
+    "sector": "Automated Fast Casual",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "BOOT",
+    "name": "Boot Barn Holdings",
+    "sector": "Western Apparel",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ANF",
+    "name": "Abercrombie & Fitch",
+    "sector": "Apparel Retail",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ELF",
+    "name": "e.l.f. Beauty",
+    "sector": "Cosmetics & Skincare",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "BIRK",
+    "name": "Birkenstock Holding",
+    "sector": "Footwear",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ONON",
+    "name": "On Holding",
+    "sector": "Performance Running",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "CROX",
+    "name": "Crocs Inc.",
+    "sector": "Footwear & HeyDude",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "SKX",
+    "name": "Skechers U.S.A.",
+    "sector": "Footwear",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "SPY",
+    "name": "SPDR S&P 500 ETF",
+    "sector": "Index ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "QQQ",
+    "name": "Invesco QQQ Trust",
+    "sector": "Tech Index ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "IWM",
+    "name": "iShares Russell 2000",
+    "sector": "Small Cap Index ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "SMH",
+    "name": "VanEck Semiconductor ETF",
+    "sector": "Semiconductor ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "XBI",
+    "name": "SPDR S&P Biotech ETF",
+    "sector": "Biotech ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "ARKK",
+    "name": "ARK Innovation ETF",
+    "sector": "Disruptive Tech ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "XLF",
+    "name": "Financial Select Sector SPDR",
+    "sector": "Financial ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "XLE",
+    "name": "Energy Select Sector SPDR",
+    "sector": "Energy ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "XLK",
+    "name": "Technology Select Sector SPDR",
+    "sector": "Tech ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "XLV",
+    "name": "Health Care Select Sector SPDR",
+    "sector": "Healthcare ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "XLI",
+    "name": "Industrial Select Sector SPDR",
+    "sector": "Industrial ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "XLY",
+    "name": "Consumer Discretionary SPDR",
+    "sector": "Consumer ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "XLP",
+    "name": "Consumer Staples SPDR",
+    "sector": "Staples ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "XLU",
+    "name": "Utilities Select Sector SPDR",
+    "sector": "Utilities ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "XLRE",
+    "name": "Real Estate Select Sector SPDR",
+    "sector": "Real Estate ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "XLC",
+    "name": "Communication Services SPDR",
+    "sector": "Communications ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "BITO",
+    "name": "ProShares Bitcoin Strategy ETF",
+    "sector": "Crypto ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "GDX",
+    "name": "VanEck Gold Miners ETF",
+    "sector": "Metals & Mining ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "TLT",
+    "name": "iShares 20+ Year Treasury ETF",
+    "sector": "Fixed Income ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "HYG",
+    "name": "iShares High Yield Bond ETF",
+    "sector": "Credit ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "GME",
+    "name": "GameStop Corp.",
+    "sector": "Specialty Retail",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMC",
+    "name": "AMC Entertainment",
+    "sector": "Entertainment",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "BB",
+    "name": "BlackBerry Ltd.",
+    "sector": "Cybersecurity & IoT",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "TLRY",
+    "name": "Tilray Brands",
+    "sector": "Cannabis / Consumer",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "CGC",
+    "name": "Canopy Growth",
+    "sector": "Cannabis",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "CRON",
+    "name": "Cronos Group",
+    "sector": "Cannabis",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "NTNX",
+    "name": "Nutanix Inc.",
+    "sector": "Hybrid Cloud Software",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "S",
+    "name": "SentinelOne",
+    "sector": "Cybersecurity",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "BOX",
+    "name": "Box Inc.",
+    "sector": "Cloud Content Management",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "VRNS",
+    "name": "Varonis Systems",
+    "sector": "Data Security",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "TENB",
+    "name": "Tenable Holdings",
+    "sector": "Cybersecurity",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "QLYS",
+    "name": "Qualys Inc.",
+    "sector": "Cloud Security",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "RPD",
+    "name": "Rapid7 Inc.",
+    "sector": "SecOps Software",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "CRUS",
+    "name": "Cirrus Logic",
+    "sector": "Audio Semis",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "RMBS",
+    "name": "Rambus Inc.",
+    "sector": "Memory Interface Chips",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "SLAB",
+    "name": "Silicon Labs",
+    "sector": "IoT Semis",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ACLS",
+    "name": "Axcelis Technologies",
+    "sector": "Ion Implantation",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ONTO",
+    "name": "Onto Innovation",
+    "sector": "Semiconductor Metrology",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "HALO",
+    "name": "Halozyme Therapeutics",
+    "sector": "Drug Delivery Enzymes",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "NBIX",
+    "name": "Neurocrine Biosciences",
+    "sector": "Neuroscience",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "EXEL",
+    "name": "Exelixis Inc.",
+    "sector": "Oncology Drug Discovery",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "UTHR",
+    "name": "United Therapeutics",
+    "sector": "Pulmonary Hypertension",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "IOVA",
+    "name": "Iovance Biotherapeutics",
+    "sector": "TIL Cell Therapy",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "GERN",
+    "name": "Geron Corp.",
+    "sector": "Myelodysplastic Syndromes",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ARGX",
+    "name": "argenx SE",
+    "sector": "Immunology Therapeutics",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "BBIO",
+    "name": "BridgeBio Pharma",
+    "sector": "Genetic Diseases",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "INSP",
+    "name": "Inspire Medical Systems",
+    "sector": "Sleep Apnea Devices",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "NVRO",
+    "name": "Nevro Corp.",
+    "sector": "Spinal Cord Stimulation",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "SWAV",
+    "name": "Shockwave Medical",
+    "sector": "Intravascular Lithotripsy",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AR",
+    "name": "Antero Resources",
+    "sector": "Natural Gas & NGLs",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "RRC",
+    "name": "Range Resources",
+    "sector": "Natural Gas",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "MTDR",
+    "name": "Matador Resources",
+    "sector": "Oil & Gas E&P",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "CHRD",
+    "name": "Chord Energy",
+    "sector": "Williston Basin E&P",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "RIG",
+    "name": "Transocean Ltd.",
+    "sector": "Offshore Ultra-Deepwater",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "VAL",
+    "name": "Valaris Ltd.",
+    "sector": "Offshore Drilling",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "WFRD",
+    "name": "Weatherford International",
+    "sector": "Energy Services",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "HEI",
+    "name": "HEICO Corp.",
+    "sector": "Aerospace & Defense",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "WWD",
+    "name": "Woodward Inc.",
+    "sector": "Control Solutions",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "SPR",
+    "name": "Spirit AeroSystems",
+    "sector": "Aerostructures",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "BWXT",
+    "name": "BWX Technologies",
+    "sector": "Nuclear Components",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "GTLS",
+    "name": "Chart Industries",
+    "sector": "Cryogenic Equipment",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "FIVE",
+    "name": "Five Below",
+    "sector": "Value Retail",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "OLLI",
+    "name": "Ollie's Bargain Outlet",
+    "sector": "Extreme Value Retail",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "SFM",
+    "name": "Sprouts Farmers Market",
+    "sector": "Specialty Grocery",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "URBN",
+    "name": "Urban Outfitters",
+    "sector": "Lifestyle Apparel",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AEO",
+    "name": "American Eagle Outfitters",
+    "sector": "Apparel Retail",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "WAL",
+    "name": "Western Alliance Bancorp",
+    "sector": "Regional Banking",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ZION",
+    "name": "Zions Bancorporation",
+    "sector": "Regional Banking",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "CMA",
+    "name": "Comerica Inc.",
+    "sector": "Commercial Banking",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "FHN",
+    "name": "First Horizon Corp.",
+    "sector": "Regional Banking",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "NYCB",
+    "name": "Flagstar Financial",
+    "sector": "Community Banking",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "SLM",
+    "name": "SLM Corp. (Sallie Mae)",
+    "sector": "Education Loans",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "CACC",
+    "name": "Credit Acceptance Corp.",
+    "sector": "Auto Finance",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "RITM",
+    "name": "Rithm Capital",
+    "sector": "Asset Management REIT",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AGNC",
+    "name": "AGNC Investment Corp.",
+    "sector": "Agency Mortgage REIT",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "NLY",
+    "name": "Annaly Capital Management",
+    "sector": "Mortgage REIT",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "SNOW",
+    "name": "Snowflake Inc.",
+    "sector": "Data Cloud Platform",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ZS",
+    "name": "Zscaler Inc.",
+    "sector": "Zero Trust Cloud Security",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "MDB",
+    "name": "MongoDB Inc.",
+    "sector": "Modern Database Platform",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "NET",
+    "name": "Cloudflare Inc.",
+    "sector": "Edge Connectivity & Security",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "TEAM",
+    "name": "Atlassian Corp.",
+    "sector": "Collaboration Software",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "HUBS",
+    "name": "HubSpot Inc.",
+    "sector": "CRM & Marketing Platform",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "OKTA",
+    "name": "Okta Inc.",
+    "sector": "Identity Management",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "BILL",
+    "name": "BILL Holdings",
+    "sector": "Financial Automation",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "TWLO",
+    "name": "Twilio Inc.",
+    "sector": "Cloud Communications",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "FROG",
+    "name": "JFrog Ltd.",
+    "sector": "Liquid Software / DevOps",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "BRZE",
+    "name": "Braze Inc.",
+    "sector": "Customer Engagement",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMPL",
+    "name": "Amplitude Inc.",
+    "sector": "Product Analytics",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "WK",
+    "name": "Workiva Inc.",
+    "sector": "Regulatory Reporting",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ASAN",
+    "name": "Asana Inc.",
+    "sector": "Work Management",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "CXM",
+    "name": "Sprinklr Inc.",
+    "sector": "Customer Experience AI",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "PSTG",
+    "name": "Pure Storage",
+    "sector": "Enterprise All-Flash",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "TSM",
+    "name": "Taiwan Semiconductor",
+    "sector": "Semiconductor Foundry",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ASML",
+    "name": "ASML Holding",
+    "sector": "Lithography Equipment",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "QRVO",
+    "name": "Qorvo Inc.",
+    "sector": "RF Solutions",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "POWI",
+    "name": "Power Integrations",
+    "sector": "High-Voltage Power ICs",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "SMTC",
+    "name": "Semtech Corp.",
+    "sector": "Analog & Mixed-Signal",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ICHR",
+    "name": "Ichor Holdings",
+    "sector": "Fluid Delivery Systems",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "UCTT",
+    "name": "Ultra Clean Holdings",
+    "sector": "Subsystems Manufacturing",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "VECO",
+    "name": "Veeco Instruments",
+    "sector": "Semiconductor Process",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "FORM",
+    "name": "FormFactor Inc.",
+    "sector": "Probe Cards & Test",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "CAMT",
+    "name": "Camtek Ltd.",
+    "sector": "Metrology & Inspection",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "MKSI",
+    "name": "MKS Instruments",
+    "sector": "Process Control",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ENTG",
+    "name": "Entegris Inc.",
+    "sector": "Advanced Materials",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "LSCC",
+    "name": "Lattice Semiconductor",
+    "sector": "Low Power FPGAs",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "SITM",
+    "name": "SiTime Corp.",
+    "sector": "Precision Timing MEMS",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "BABA",
+    "name": "Alibaba Group",
+    "sector": "E-Commerce & Cloud",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "PDD",
+    "name": "PDD Holdings (Temu)",
+    "sector": "Global E-Commerce",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "JD",
+    "name": "JD.com Inc.",
+    "sector": "Supply Chain & Retail",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "BIDU",
+    "name": "Baidu Inc.",
+    "sector": "AI & Autonomous Driving",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "BILI",
+    "name": "Bilibili Inc.",
+    "sector": "Video & Entertainment",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "FUTU",
+    "name": "Futu Holdings",
+    "sector": "Digital Brokerage",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "TCOM",
+    "name": "Trip.com Group",
+    "sector": "Travel Services",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "BEKE",
+    "name": "KE Holdings",
+    "sector": "Housing Platform",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "YUMC",
+    "name": "Yum China",
+    "sector": "Fast Food Restaurants",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "SE",
+    "name": "Sea Limited",
+    "sector": "Digital Entertainment & Shopee",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "GRAB",
+    "name": "Grab Holdings",
+    "sector": "Superapp & Deliveries",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "CPNG",
+    "name": "Coupang Inc.",
+    "sector": "E-Commerce Platform",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "CCJ",
+    "name": "Cameco Corp.",
+    "sector": "Uranium Fuel",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "UEC",
+    "name": "Uranium Energy Corp.",
+    "sector": "In-Situ Uranium Mining",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "NXE",
+    "name": "NexGen Energy",
+    "sector": "High-Grade Uranium",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "DNN",
+    "name": "Denison Mines",
+    "sector": "Uranium Exploration",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "URA",
+    "name": "Global X Uranium ETF",
+    "sector": "Uranium ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "URNM",
+    "name": "Sprott Uranium Miners ETF",
+    "sector": "Uranium ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "OKLO",
+    "name": "Oklo Inc.",
+    "sector": "Advanced Nuclear Fission",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "SMR",
+    "name": "NuScale Power",
+    "sector": "Small Modular Reactors",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "NNE",
+    "name": "Nano Nuclear Energy",
+    "sector": "Micro-SMR Tech",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "TLN",
+    "name": "Talen Energy",
+    "sector": "Nuclear Power & Data Centers",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ERJ",
+    "name": "Embraer SA",
+    "sector": "Regional Jet Manufacturing",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "SPOT",
+    "name": "Spotify Technology",
+    "sector": "Audio Streaming",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "PARA",
+    "name": "Paramount Global",
+    "sector": "Media Network",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "MTCH",
+    "name": "Match Group",
+    "sector": "Online Dating",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "BMBL",
+    "name": "Bumble Inc.",
+    "sector": "Social Connection",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "EA",
+    "name": "Electronic Arts",
+    "sector": "Interactive Entertainment",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "LYFT",
+    "name": "Lyft Inc.",
+    "sector": "Ridesharing Network",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "CZR",
+    "name": "Caesars Entertainment",
+    "sector": "Gaming & Hospitality",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "NVO",
+    "name": "Novo Nordisk",
+    "sector": "GLP-1 & Diabetes Care",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AZN",
+    "name": "AstraZeneca",
+    "sector": "Oncology & Biopharma",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "SNY",
+    "name": "Sanofi",
+    "sector": "Immunology & Vaccines",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "GSK",
+    "name": "GSK plc",
+    "sector": "Specialty Medicines",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "TAK",
+    "name": "Takeda Pharmaceutical",
+    "sector": "Rare Diseases",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "TEVA",
+    "name": "Teva Pharmaceutical",
+    "sector": "Generic Pharmaceuticals",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "PRGO",
+    "name": "Perrigo Co.",
+    "sector": "Consumer Self-Care",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "JAZZ",
+    "name": "Jazz Pharmaceuticals",
+    "sector": "Neuroscience & Oncology",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ITCI",
+    "name": "Intra-Cellular Therapies",
+    "sector": "CNS Therapeutics",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ACAD",
+    "name": "ACADIA Pharmaceuticals",
+    "sector": "Neurodegenerative Disorders",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "BNTX",
+    "name": "BioNTech SE",
+    "sector": "Immunotherapies",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "NVAX",
+    "name": "Novavax Inc.",
+    "sector": "Recombinant Vaccines",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "SCCO",
+    "name": "Southern Copper",
+    "sector": "Copper Mining",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "GOLD",
+    "name": "Barrick Gold",
+    "sector": "Gold & Copper",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AEM",
+    "name": "Agnico Eagle Mines",
+    "sector": "Precious Metals",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "KGC",
+    "name": "Kinross Gold",
+    "sector": "Gold Operations",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AU",
+    "name": "AngloGold Ashanti",
+    "sector": "Gold Producer",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "SBSW",
+    "name": "Sibanye Stillwater",
+    "sector": "PGM & Battery Metals",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "SQM",
+    "name": "Sociedad Quimica y Minera",
+    "sector": "Lithium & Potassium",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "LAC",
+    "name": "Lithium Americas",
+    "sector": "Thacker Pass Lithium",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "MP",
+    "name": "MP Materials",
+    "sector": "Rare Earth Elements",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "CLF",
+    "name": "Cleveland-Cliffs",
+    "sector": "Flat-Rolled Steel",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "X",
+    "name": "United States Steel",
+    "sector": "Integrated Steel",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AA",
+    "name": "Alcoa Corp.",
+    "sector": "Bauxite & Aluminum",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "CENX",
+    "name": "Century Aluminum",
+    "sector": "Primary Aluminum",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AAL",
+    "name": "American Airlines",
+    "sector": "Commercial Airline",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "JBLU",
+    "name": "JetBlue Airways",
+    "sector": "Low-Cost Airline",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALK",
+    "name": "Alaska Air Group",
+    "sector": "Regional & Transcon Air",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "XPO",
+    "name": "XPO Inc.",
+    "sector": "Less-Than-Truckload (LTL)",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "SAIA",
+    "name": "Saia Inc.",
+    "sector": "LTL Freight Shipping",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "DIA",
+    "name": "SPDR Dow Jones Industrial ETF",
+    "sector": "Dow 30 Index ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "KWEB",
+    "name": "KraneShares CSI China Internet",
+    "sector": "China Internet ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "FXI",
+    "name": "iShares China Large-Cap ETF",
+    "sector": "China Large-Cap ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "EEM",
+    "name": "iShares MSCI Emerging Markets",
+    "sector": "Emerging Markets ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "EFA",
+    "name": "iShares MSCI EAFE ETF",
+    "sector": "Developed Markets ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "GLD",
+    "name": "SPDR Gold Shares",
+    "sector": "Precious Metals ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "SLV",
+    "name": "iShares Silver Trust",
+    "sector": "Precious Metals ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "USO",
+    "name": "United States Oil Fund",
+    "sector": "Crude Oil ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "UNG",
+    "name": "United States Natural Gas",
+    "sector": "Natural Gas ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "TQQQ",
+    "name": "ProShares UltraPro QQQ (3x)",
+    "sector": "Leveraged Tech ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "SQQQ",
+    "name": "ProShares UltraPro Short QQQ (-3x)",
+    "sector": "Inverse Tech ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "SOXL",
+    "name": "Direxion Daily Semiconductor 3x",
+    "sector": "Leveraged Semis ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "SOXS",
+    "name": "Direxion Daily Semi Bear -3x",
+    "sector": "Inverse Semis ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "UVXY",
+    "name": "ProShares Ultra VIX Short-Term",
+    "sector": "Volatility ETF",
+    "isSP500": false,
+    "capCategory": "etf"
+  },
+  {
+    "ticker": "VXX",
+    "name": "iPath Series B S&P 500 VIX",
+    "sector": "Volatility ETN",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AAAP",
+    "name": "Pacer Barings CLO Market Flex ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AADR",
+    "name": "AdvisorShares Dorsey Wright ADR ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AAEQ",
+    "name": "Alpha Architect US Equity 2 ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AALG",
+    "name": "Leverage Shares 2X Long AAL Daily ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AAME",
+    "name": "Atlantic American Corporation - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AAOI",
+    "name": "Applied Optoelectronics, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AAON",
+    "name": "AAON, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AAPB",
+    "name": "GraniteShares 2x Long AAPL Daily ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AAPD",
+    "name": "Direxion Daily AAPL Bear 1X ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AAPG",
+    "name": "Ascentage Pharma Group International - American Depository Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AAPU",
+    "name": "Direxion Daily AAPL Bull 2X ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AARD",
+    "name": "Aardvark Therapeutics, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AAUB",
+    "name": "Alpha Architect US Equity 4 ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AAUS",
+    "name": "Alpha Architect US Equity ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AAVM",
+    "name": "Alpha Architect Global Factor Equity ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AAXJ",
+    "name": "iShares MSCI All Country Asia ex Japan ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ABAT",
+    "name": "American Battery Technology Company - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ABCL",
+    "name": "AbCellera Biologics Inc. - Common Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ABCS",
+    "name": "Alpha Blue Capital US Small-Mid Cap Dynamic ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ABEO",
+    "name": "Abeona Therapeutics Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ABI",
+    "name": "VictoryShares Pioneer Asset-Based Income ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ABIG",
+    "name": "Argent Large Cap ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ABLV",
+    "name": "Able View Global Inc. - Class B Ordinary Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ABOS",
+    "name": "Acumen Pharmaceuticals, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ABSI",
+    "name": "Absci Corporation - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ABTC",
+    "name": "American Bitcoin Corp. - Class A Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ABTS",
+    "name": "Abits Group Inc - Ordinary Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ABUS",
+    "name": "Arbutus Biopharma Corporation - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ABVC",
+    "name": "ABVC BioPharma, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ACB",
+    "name": "Aurora Cannabis Inc. - Common Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ACCL",
+    "name": "Acco Group Holdings Limited - Class A Ordinary Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ACDC",
+    "name": "ProFrac Holding Corp. - Class A Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ACEP",
+    "name": "ARS Core Equity Portfolio ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ACET",
+    "name": "Adicet Bio, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ACFN",
+    "name": "Acorn Energy, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ACHC",
+    "name": "Acadia Healthcare Company, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ACHV",
+    "name": "Achieve Life Sciences, Inc.  - Common Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ACIC",
+    "name": "American Coastal Insurance Corporation - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ACIU",
+    "name": "AC Immune SA - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ACIW",
+    "name": "ACI Worldwide, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ACMR",
+    "name": "ACM Research, Inc. - Class A Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ACNB",
+    "name": "ACNB Corporation - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ACNT",
+    "name": "Ascent Industries Co. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ACOG",
+    "name": "Alpha Cognition Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ACON",
+    "name": "Aclarion, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ACQQ",
+    "name": "ProShares Nasdaq-100 Autocallable Income ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ACRS",
+    "name": "Aclaris Therapeutics, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ACRT",
+    "name": "ProShares Russell 2000 Autocallable Income ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ACRV",
+    "name": "Acrivon Therapeutics, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ACSP",
+    "name": "ProShares S&P 500 Autocallable Income ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ACT",
+    "name": "Enact Holdings, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ACTG",
+    "name": "Acacia Research Corporation - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ACTU",
+    "name": "Actuate Therapeutics, Inc. - Common stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ACWI",
+    "name": "iShares MSCI ACWI ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ACWX",
+    "name": "iShares MSCI ACWI ex U.S. ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ACXP",
+    "name": "Acurx Pharmaceuticals, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ADAG",
+    "name": "Adagene Inc. - ADS, each representing 1.25 ordinary shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ADBG",
+    "name": "Leverage Shares 2X Long ADBE Daily ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ADBT",
+    "name": "Advasa Holdings, Inc. - Common stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ADEA",
+    "name": "Adeia Inc.  - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ADGM",
+    "name": "Adagio Medical Holdings, Inc - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ADIL",
+    "name": "Adial Pharmaceuticals, Inc - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ADMA",
+    "name": "ADMA Biologics Inc - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ADPT",
+    "name": "Adaptive Biotechnologies Corporation - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ADSE",
+    "name": "ADS-TEC ENERGY PLC - Ordinary Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ADTN",
+    "name": "ADTRAN Holdings, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ADUR",
+    "name": "Aduro Clean Technologies Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ADUS",
+    "name": "Addus HomeCare Corporation - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ADV",
+    "name": "Advantage Solutions Inc.  - Class A Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ADVB",
+    "name": "Advanced Biomed Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AEBI",
+    "name": "Aebi Schmidt Holding AG - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AEC",
+    "name": "Anfield Energy Inc. - Common Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AEHL",
+    "name": "Antelope Enterprise Holdings Limited - Class A Ordinary Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AEI",
+    "name": "Alset Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AEIS",
+    "name": "Advanced Energy Industries, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AEMD",
+    "name": "Aethlon Medical, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AENT",
+    "name": "Alliance Entertainment Holding Corporation - common stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AERT",
+    "name": "Aeries Technology, Inc. - Class A Ordinary Share",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AEVA",
+    "name": "Aeva Technologies, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AEYE",
+    "name": "AudioEye, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AFCG",
+    "name": "Advanced Flower Capital Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AFJK",
+    "name": "Aimei Health Technology Co., Ltd - Ordinary Share",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AFOS",
+    "name": "ARS Focused Opportunity Strategy ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AFRI",
+    "name": "Forafric Global PLC - Ordinary Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AFSC",
+    "name": "abrdn Focused U.S. Small Cap Active ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AFYA",
+    "name": "Afya Limited - Class A Common Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AGCC",
+    "name": "Agencia Comercial Spirits Ltd - Class A Ordinary Share",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AGEM",
+    "name": "abrdn Emerging Markets Dividend Active ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AGEN",
+    "name": "Agenus Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AGGA",
+    "name": "EA Astoria Beacon Dynamic Core US Fixed Income ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AGIO",
+    "name": "Agios Pharmaceuticals, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AGIX",
+    "name": "KraneShares Public-Private AI & Technology ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AGMB",
+    "name": "AgomAb Therapeutics NV - ADRs representing one common share.",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AGMH",
+    "name": "AGM Group Holdings Inc. - Class A Ordinary Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AGMI",
+    "name": "Themes Silver Miners ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AGNG",
+    "name": "Global X Aging Population ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AGNT",
+    "name": "AGNT, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AGPU",
+    "name": "Axe Compute Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AGRZ",
+    "name": "Agroz Inc. - Class A Ordinary Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AGYS",
+    "name": "Agilysys, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AGZD",
+    "name": "WisdomTree Interest Rate Hedged U.S. Aggregate Bond Fund",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AHCO",
+    "name": "AdaptHealth Corp.  - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AHD",
+    "name": "GraniteShares Autocallable HOOD ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AHMA",
+    "name": "Ambitions Enterprise Management Co. L.L.C - Class A Ordinary Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AIA",
+    "name": "iShares Asia 50 ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AIAI",
+    "name": "AIAI Holdings Corporation - Class A common stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AIBZ",
+    "name": "Bitzero Holdings Inc. - Common Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AIDX",
+    "name": "20/20 Biolabs, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AIFA",
+    "name": "All In FutureTech Alliance, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AIFC",
+    "name": "AI Financial Corporation - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AIFD",
+    "name": "TCW Artificial Intelligence ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AIFF",
+    "name": "Firefly Neuroscience, Inc.  - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AIFU",
+    "name": "AIFU Inc. - Class A Ordinary Share",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AIIO",
+    "name": "Robo.ai Inc. - Class B Ordinary Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AIIR",
+    "name": "Air Global PLC - Ordinary shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AIMD",
+    "name": "Ainos, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AIMS",
+    "name": "Acuitas Small Cap Active ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AINF",
+    "name": "Defiance Inference AI Chip ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AIOS",
+    "name": "AIOS Tech Inc. - Class A Common Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AIOT",
+    "name": "PowerFleet, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AIP",
+    "name": "Arteris, Inc.  - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AIPI",
+    "name": "REX AI Equity Premium Income ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AIPO",
+    "name": "Defiance AI & Power Infrastructure ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AIQ",
+    "name": "Global X Artificial Intelligence & Technology ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AIRE",
+    "name": "reAlpha Tech Corp. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AIRG",
+    "name": "Airgain, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AIRJ",
+    "name": "AirJoule Technologies Corporation - Class A Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AIRO",
+    "name": "AIRO Group Holdings, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AIRS",
+    "name": "AirSculpt Technologies, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AIRT",
+    "name": "Air T, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AISP",
+    "name": "Airship AI Holdings, Inc - Class A Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AIX",
+    "name": "Defiance US 100 Tech AI Moat ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AKAN",
+    "name": "Akanda Corp. - Common Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AKBA",
+    "name": "Akebia Therapeutics, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AKTS",
+    "name": "Aktis Oncology, Inc. - Common stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALBG",
+    "name": "Leverage Shares 2X Long ALB Daily ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALCO",
+    "name": "Alico, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALDF",
+    "name": "Aldel Financial II Inc. - Class A Ordinary Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALDX",
+    "name": "Aldeyra Therapeutics, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALEC",
+    "name": "Alector, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALGM",
+    "name": "Allegro MicroSystems, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALGS",
+    "name": "Aligos Therapeutics, Inc. - Common stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALGT",
+    "name": "Allegiant Travel Company - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALHC",
+    "name": "Alignment Healthcare, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALIL",
+    "name": "Argent Focused Small Cap ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALKS",
+    "name": "Alkermes plc - Ordinary Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALKT",
+    "name": "Alkami Technology, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALLO",
+    "name": "Allogene Therapeutics, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALLR",
+    "name": "Allarity Therapeutics, Inc. - Common stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALLT",
+    "name": "Allot Ltd. - Ordinary Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALLW",
+    "name": "State Street Bridgewater All Weather ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALM",
+    "name": "Almonty Industries Inc. - Common Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALMR",
+    "name": "Alamar Biosciences, Inc. - Class A common stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALMS",
+    "name": "Alumis Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALMU",
+    "name": "Aeluma, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALNT",
+    "name": "Allient Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALOV",
+    "name": "Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Class A Ordinary Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALOY",
+    "name": "REalloys Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALP",
+    "name": "Alpha Compute Corp  - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALPS",
+    "name": "ALPS Group Inc - Ordinary Share",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALRM",
+    "name": "Alarm.com Holdings, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALRS",
+    "name": "Alerus Financial Corporation - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALTI",
+    "name": "AlTi Global, Inc. - Class A Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALTO",
+    "name": "Alto Ingredients, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALTY",
+    "name": "Global X Alternative Income ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALVO",
+    "name": "Alvotech - Ordinary Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALXO",
+    "name": "ALX Oncology Holdings Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ALZN",
+    "name": "Alzamend Neuro, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMA",
+    "name": "Defiance Daily Target 2X Long AMAT ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMAL",
+    "name": "Amalgamated Financial Corp. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMBA",
+    "name": "Ambarella, Inc. - Ordinary Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMCI",
+    "name": "AMC Robotics Corporation - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMCX",
+    "name": "AMC Global Media Inc. - Class A Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMDD",
+    "name": "Direxion Daily AMD Bear 1X ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMDG",
+    "name": "Leverage Shares 2X Long AMD Daily ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMDL",
+    "name": "GraniteShares 2x Long AMD Daily ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMEI",
+    "name": "Amana Equity Income ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMEM",
+    "name": "Amana Developing World ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMGR",
+    "name": "Amana Growth ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMID",
+    "name": "Argent Mid Cap ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMIX",
+    "name": "Autonomix Medical, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMKR",
+    "name": "Amkor Technology, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMLX",
+    "name": "Amylyx Pharmaceuticals, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMOD",
+    "name": "Alpha Modus Holdings, Inc. - Class A Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMPG",
+    "name": "Amplitech Group, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMPH",
+    "name": "Amphastar Pharmaceuticals, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMRX",
+    "name": "Amneal Pharmaceuticals, Inc. - Class A Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMSC",
+    "name": "American Superconductor Corporation - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMSF",
+    "name": "AMERISAFE, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMSS",
+    "name": "AMASS Brands Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMST",
+    "name": "Amesite Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMTX",
+    "name": "Aemetis, Inc - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMUN",
+    "name": "abrdn Ultra Short Municipal Income Active ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMUU",
+    "name": "Direxion Daily AMD Bull 2X ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMYY",
+    "name": "GraniteShares YieldBOOST AMD ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMZD",
+    "name": "Direxion Daily AMZN Bear 1X ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMZU",
+    "name": "Direxion Daily AMZN Bull 2X ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AMZZ",
+    "name": "GraniteShares 2x Long AMZN Daily ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ANAB",
+    "name": "AnaptysBio, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ANDE",
+    "name": "The Andersons, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ANEL",
+    "name": "Defiance Daily Target 2x Long ANET ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ANGH",
+    "name": "Anghami Inc. - Ordinary Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ANGI",
+    "name": "Angi Inc. - Class A Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ANGL",
+    "name": "VanEck Fallen Angel High Yield Bond ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ANGO",
+    "name": "AngioDynamics, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ANGU",
+    "name": "SEI Ang Research Enhanced U.S. Large Cap ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ANIK",
+    "name": "Anika Therapeutics Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ANIP",
+    "name": "ANI Pharmaceuticals, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ANIX",
+    "name": "Anixa Biosciences, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ANNA",
+    "name": "AleAnna, Inc. - Class A Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ANNX",
+    "name": "Annexon, Inc. - common stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ANPA",
+    "name": "Rich Sparkle Holdings Limited - Ordinary Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ANTA",
+    "name": "Antalpha Platform Holding Company - Class A Ordinary Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ANTX",
+    "name": "AN2 Therapeutics, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ANV",
+    "name": "GraniteShares Autocallable NVDA ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ANY",
+    "name": "Sphere 3D Corp. - Common Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AOHY",
+    "name": "Angel Oak High Yield Opportunities ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AOSL",
+    "name": "Alpha and Omega Semiconductor Limited - Common Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AOTG",
+    "name": "AOT Growth and Innovation ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AOUT",
+    "name": "American Outdoor Brands, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "APC",
+    "name": "ARKO Petroleum Corp. - Class A Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "APEI",
+    "name": "American Public Education, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "APGE",
+    "name": "Apogee Therapeutics, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "API",
+    "name": "Agora, Inc. - ADS",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "APLD",
+    "name": "Applied Digital Corporation - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "APLM",
+    "name": "Apollomics Inc. - Class A Ordinary Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "APMD",
+    "name": "Apnimed, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "APOG",
+    "name": "Apogee Enterprises, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "APPF",
+    "name": "AppFolio, Inc. - Class A Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "APPN",
+    "name": "Appian Corporation - Class A Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "APPS",
+    "name": "Digital Turbine, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "APPX",
+    "name": "Tradr 2X Long APP Daily ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "APRE",
+    "name": "Aprea Therapeutics, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "APUR",
+    "name": "Aperture AC - Class A Ordinary Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "APVO",
+    "name": "Aptevo Therapeutics Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "APWC",
+    "name": "Asia Pacific Wire & Cable Corporation Limited  - Common shares, Par value .01 per share",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "APXT",
+    "name": "Apex Treasury Corporation - Class A Ordinary Share",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "APYX",
+    "name": "Apyx Medical Corporation - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AQB",
+    "name": "AquaBounty Technologies, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AQLG",
+    "name": "HCM Large Cap Growth ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AQMS",
+    "name": "Aqua Metals, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AQST",
+    "name": "Aquestive Therapeutics, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AQWA",
+    "name": "Global X Clean Water ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ARAI",
+    "name": "Arrive AI Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ARAY",
+    "name": "Accuray Incorporated - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ARBB",
+    "name": "ARB IOT Group Limited - Ordinary Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ARBE",
+    "name": "Arbe Robotics Ltd. - Ordinary Shares",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ARCB",
+    "name": "ArcBest Corporation - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ARCC",
+    "name": "Ares Capital Corporation - Closed End Fund",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ARCI",
+    "name": "Archimedes Tech SPAC Partners III Co. - Ordinary Share",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ARCT",
+    "name": "Arcturus Therapeutics Holdings Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ARDX",
+    "name": "Ardelyx, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AREC",
+    "name": "American Resources Corporation - Class A Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ARHS",
+    "name": "Arhaus, Inc. - Class A Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ARKO",
+    "name": "ARKO Corp. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ARKR",
+    "name": "Ark Restaurants Corp. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ARMG",
+    "name": "Leverage Shares 2X Long ARM Daily ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ARMY",
+    "name": "Tema International Defense ETF",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "AROW",
+    "name": "Arrow Financial Corporation - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ARQ",
+    "name": "Arq, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ARQT",
+    "name": "Arcutis Biotherapeutics, Inc. - Common stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  },
+  {
+    "ticker": "ARTL",
+    "name": "Artelo Biosciences, Inc. - Common Stock",
+    "sector": "Technology & Growth",
+    "isSP500": false,
+    "capCategory": "small_mid"
+  }
+]
